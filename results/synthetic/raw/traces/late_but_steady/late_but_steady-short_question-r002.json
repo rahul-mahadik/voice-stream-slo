@@ -1,0 +1,112 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 222.4983266971057,
+      "media_duration_ms": 40.0,
+      "sequence": 0,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 254.5603399684404,
+      "media_duration_ms": 40.0,
+      "sequence": 1,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 287.5436499241952,
+      "media_duration_ms": 40.0,
+      "sequence": 2,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 319.40929207115346,
+      "media_duration_ms": 40.0,
+      "sequence": 3,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 352.6339415749767,
+      "media_duration_ms": 40.0,
+      "sequence": 4,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 382.79411657055687,
+      "media_duration_ms": 40.0,
+      "sequence": 5,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 415.1773487531471,
+      "media_duration_ms": 40.0,
+      "sequence": 6,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 447.49447425674185,
+      "media_duration_ms": 40.0,
+      "sequence": 7,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 478.6335116906688,
+      "media_duration_ms": 40.0,
+      "sequence": 8,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 510.84010515114994,
+      "media_duration_ms": 40.0,
+      "sequence": 9,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 543.4803414465964,
+      "media_duration_ms": 40.0,
+      "sequence": 10,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 574.1531971680741,
+      "media_duration_ms": 40.0,
+      "sequence": 11,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 605.087099868408,
+      "media_duration_ms": 40.0,
+      "sequence": 12,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 638.5656394549188,
+      "media_duration_ms": 40.0,
+      "sequence": 13,
+      "size_bytes": 1920
+    }
+  ],
+  "completed_ms": 640.5656394549188,
+  "connection_reused": true,
+  "connection_setup_ms": 0.0,
+  "error": null,
+  "metadata": {
+    "scenario": "late_but_steady",
+    "seed": 20260823
+  },
+  "model": "synthetic-validation-v1",
+  "prompt_id": "short_question",
+  "provider": "late_but_steady",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T20:20:30.440544+00:00",
+  "success": true,
+  "text_chars": 40,
+  "text_sha256": "4262dae8826156446fa7a196bd61ab5d49ff9181e842b0c16f19eb8f4e6ed8f2",
+  "trace_id": "late_but_steady-short_question-r002",
+  "transport": "synthetic",
+  "voice": "deterministic-pcm"
+}

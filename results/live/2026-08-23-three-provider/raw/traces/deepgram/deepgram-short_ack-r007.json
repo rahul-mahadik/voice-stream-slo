@@ -1,0 +1,201 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 113.53079200489447,
+      "media_duration_ms": 74.0,
+      "sequence": 0,
+      "size_bytes": 3552
+    },
+    {
+      "arrival_ms": 159.51241698348895,
+      "media_duration_ms": 80.0,
+      "sequence": 1,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 208.42120802262798,
+      "media_duration_ms": 80.0,
+      "sequence": 2,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 254.0761249838397,
+      "media_duration_ms": 80.0,
+      "sequence": 3,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 301.4139580191113,
+      "media_duration_ms": 80.0,
+      "sequence": 4,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 348.63800002494827,
+      "media_duration_ms": 80.0,
+      "sequence": 5,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 396.77108300384134,
+      "media_duration_ms": 80.0,
+      "sequence": 6,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 443.24341701576486,
+      "media_duration_ms": 80.0,
+      "sequence": 7,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 491.883417009376,
+      "media_duration_ms": 80.0,
+      "sequence": 8,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 538.1639580009505,
+      "media_duration_ms": 80.0,
+      "sequence": 9,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 585.2852080133744,
+      "media_duration_ms": 80.0,
+      "sequence": 10,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 680.6232919916511,
+      "media_duration_ms": 80.0,
+      "sequence": 11,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 727.1938750054687,
+      "media_duration_ms": 80.0,
+      "sequence": 12,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 775.9711670223624,
+      "media_duration_ms": 80.0,
+      "sequence": 13,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 822.278333012946,
+      "media_duration_ms": 80.0,
+      "sequence": 14,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 869.4474580115639,
+      "media_duration_ms": 80.0,
+      "sequence": 15,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 916.5641670115292,
+      "media_duration_ms": 80.0,
+      "sequence": 16,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 965.7557500177063,
+      "media_duration_ms": 80.0,
+      "sequence": 17,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1012.2330830199644,
+      "media_duration_ms": 80.0,
+      "sequence": 18,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1058.5252500022762,
+      "media_duration_ms": 80.0,
+      "sequence": 19,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1106.2898330274038,
+      "media_duration_ms": 80.0,
+      "sequence": 20,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1153.3499999786727,
+      "media_duration_ms": 80.0,
+      "sequence": 21,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1200.9142080205493,
+      "media_duration_ms": 80.0,
+      "sequence": 22,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1248.7015419756062,
+      "media_duration_ms": 80.0,
+      "sequence": 23,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1280.372457986232,
+      "media_duration_ms": 6.0,
+      "sequence": 24,
+      "size_bytes": 288
+    }
+  ],
+  "completed_ms": 1280.4637079825625,
+  "connection_reused": true,
+  "connection_setup_ms": 162.06524998415262,
+  "error": null,
+  "metadata": {
+    "lifecycle": [
+      {
+        "arrival_ms": 28.40920799644664,
+        "type": "SpeechStarted"
+      },
+      {
+        "arrival_ms": 28.426332981325686,
+        "type": "Flushed"
+      },
+      {
+        "arrival_ms": 1280.4386669886298,
+        "type": "SpeechMetadata"
+      }
+    ],
+    "speech_metadata": {
+      "audio_duration_ms": 1920,
+      "billable_character_count": 33,
+      "controls_applied": {
+        "breaks_applied": 0,
+        "pronunciation_warnings": 0,
+        "pronunciations_applied": 0
+      },
+      "input_character_count": 33,
+      "type": "SpeechMetadata"
+    }
+  },
+  "model": "flux-haley-en",
+  "prompt_id": "short_ack",
+  "provider": "deepgram",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:14:48.683596+00:00",
+  "success": true,
+  "text_chars": 33,
+  "text_sha256": "71182c6c0aefdf8e2f6a592090f013e458a3a450ee8aebe19ee8e636aa606526",
+  "trace_id": "deepgram-short_ack-r007",
+  "transport": "websocket",
+  "voice": "haley"
+}

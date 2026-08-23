@@ -1,0 +1,130 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 215.37289393247585,
+      "media_duration_ms": 40.0,
+      "sequence": 0,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 249.6176470956695,
+      "media_duration_ms": 40.0,
+      "sequence": 1,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 285.0240281638429,
+      "media_duration_ms": 40.0,
+      "sequence": 2,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 318.14833763821605,
+      "media_duration_ms": 40.0,
+      "sequence": 3,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 349.51208584039927,
+      "media_duration_ms": 40.0,
+      "sequence": 4,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 383.2364859100235,
+      "media_duration_ms": 40.0,
+      "sequence": 5,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 417.1894290661329,
+      "media_duration_ms": 40.0,
+      "sequence": 6,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 451.0231653475083,
+      "media_duration_ms": 40.0,
+      "sequence": 7,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 485.0222086458571,
+      "media_duration_ms": 40.0,
+      "sequence": 8,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 513.9767533990807,
+      "media_duration_ms": 40.0,
+      "sequence": 9,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 544.9645602269161,
+      "media_duration_ms": 40.0,
+      "sequence": 10,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 579.4458852749278,
+      "media_duration_ms": 40.0,
+      "sequence": 11,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 609.7728082071076,
+      "media_duration_ms": 40.0,
+      "sequence": 12,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 639.9012804424212,
+      "media_duration_ms": 40.0,
+      "sequence": 13,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 672.3029267178844,
+      "media_duration_ms": 40.0,
+      "sequence": 14,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 706.7541025830753,
+      "media_duration_ms": 40.0,
+      "sequence": 15,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 740.9857028060678,
+      "media_duration_ms": 40.0,
+      "sequence": 16,
+      "size_bytes": 1920
+    }
+  ],
+  "completed_ms": 742.9857028060678,
+  "connection_reused": true,
+  "connection_setup_ms": 0.0,
+  "error": null,
+  "metadata": {
+    "scenario": "late_but_steady",
+    "seed": 20260823
+  },
+  "model": "synthetic-validation-v1",
+  "prompt_id": "medium_booking",
+  "provider": "late_but_steady",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T20:20:30.446501+00:00",
+  "success": true,
+  "text_chars": 113,
+  "text_sha256": "e9b4536926c6b9168e23ece0024b88d84cd3d652b286d132791a5970156228cf",
+  "trace_id": "late_but_steady-medium_booking-r008",
+  "transport": "synthetic",
+  "voice": "deterministic-pcm"
+}

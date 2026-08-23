@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "run": {
+    "repetitions": 20,
+    "warmups": 2,
+    "seed": 20260823,
+    "timeout_seconds": 45,
+    "cooldown_ms": 250,
+    "network_label": "Codex desktop client, America/Los_Angeles; provider POP not measured"
+  },
+  "audio": {
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2,
+    "channels": 1
+  },
+  "buffer_depths_ms": [0, 20, 40, 80, 120, 200],
+  "stress_replay": {
+    "buffer_depth_ms": 80,
+    "pause_durations_ms": [0, 50, 100, 200, 400, 800, 1200],
+    "injection_audio_fractions": [0.25, 0.5, 0.75]
+  },
+  "providers": {
+    "cartesia": {
+      "endpoint": "wss://api.cartesia.ai/tts/websocket",
+      "api_version": "2026-03-01",
+      "model": "sonic-3.5-2026-05-04",
+      "voice": "6ccbfb76-1fc6-48f7-b71d-91ac6298247b",
+      "transport": "websocket",
+      "key_env": "CARTESIA_API_KEY"
+    },
+    "deepgram": {
+      "endpoint": "wss://api.deepgram.com/v2/speak",
+      "model": "flux-haley-en",
+      "voice": "haley",
+      "transport": "websocket",
+      "key_env": "DEEPGRAM_API_KEY"
+    },
+    "elevenlabs": {
+      "endpoint": "https://api.elevenlabs.io/v1/text-to-speech",
+      "model": "eleven_flash_v2_5",
+      "voice": "JBFqnCBsd6RMkjVDRZzb",
+      "transport": "http-chunked",
+      "key_env": "ELEVENLABS_API_KEY"
+    },
+    "openai": {
+      "endpoint": "https://api.openai.com/v1/audio/speech",
+      "model": "gpt-4o-mini-tts",
+      "voice": "marin",
+      "transport": "http-chunked",
+      "key_env": "OPENAI_API_KEY"
+    }
+  }
+}

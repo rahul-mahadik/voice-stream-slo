@@ -1,0 +1,130 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 122.30256587739137,
+      "media_duration_ms": 40.0,
+      "sequence": 0,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 156.5081795735314,
+      "media_duration_ms": 40.0,
+      "sequence": 1,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 193.40679446495088,
+      "media_duration_ms": 40.0,
+      "sequence": 2,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 224.67007713840792,
+      "media_duration_ms": 40.0,
+      "sequence": 3,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 263.1958852018553,
+      "media_duration_ms": 40.0,
+      "sequence": 4,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 302.2145007908353,
+      "media_duration_ms": 40.0,
+      "sequence": 5,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 339.74758185775516,
+      "media_duration_ms": 40.0,
+      "sequence": 6,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 369.94209582758543,
+      "media_duration_ms": 40.0,
+      "sequence": 7,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 399.8701757652838,
+      "media_duration_ms": 40.0,
+      "sequence": 8,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 427.8527960864683,
+      "media_duration_ms": 40.0,
+      "sequence": 9,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 459.55739914547075,
+      "media_duration_ms": 40.0,
+      "sequence": 10,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 492.81845427523734,
+      "media_duration_ms": 40.0,
+      "sequence": 11,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 523.9255884575522,
+      "media_duration_ms": 40.0,
+      "sequence": 12,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 558.7733688364085,
+      "media_duration_ms": 40.0,
+      "sequence": 13,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 597.6420337319472,
+      "media_duration_ms": 40.0,
+      "sequence": 14,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 635.0516948090541,
+      "media_duration_ms": 40.0,
+      "sequence": 15,
+      "size_bytes": 1920
+    },
+    {
+      "arrival_ms": 669.5228789883146,
+      "media_duration_ms": 40.0,
+      "sequence": 16,
+      "size_bytes": 1920
+    }
+  ],
+  "completed_ms": 671.5228789883146,
+  "connection_reused": true,
+  "connection_setup_ms": 0.0,
+  "error": null,
+  "metadata": {
+    "scenario": "steady",
+    "seed": 20260823
+  },
+  "model": "synthetic-validation-v1",
+  "prompt_id": "medium_booking",
+  "provider": "steady",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T20:20:30.363199+00:00",
+  "success": true,
+  "text_chars": 113,
+  "text_sha256": "e9b4536926c6b9168e23ece0024b88d84cd3d652b286d132791a5970156228cf",
+  "trace_id": "steady-medium_booking-r004",
+  "transport": "synthetic",
+  "voice": "deterministic-pcm"
+}

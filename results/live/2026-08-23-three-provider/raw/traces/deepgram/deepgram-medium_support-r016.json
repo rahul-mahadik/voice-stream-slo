@@ -1,0 +1,447 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 83.07254099054262,
+      "media_duration_ms": 74.0,
+      "sequence": 0,
+      "size_bytes": 3552
+    },
+    {
+      "arrival_ms": 130.39825001033023,
+      "media_duration_ms": 80.0,
+      "sequence": 1,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 180.63387501752004,
+      "media_duration_ms": 80.0,
+      "sequence": 2,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 224.54224998364225,
+      "media_duration_ms": 80.0,
+      "sequence": 3,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 271.6993329813704,
+      "media_duration_ms": 80.0,
+      "sequence": 4,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 319.5971249951981,
+      "media_duration_ms": 80.0,
+      "sequence": 5,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 366.32829101290554,
+      "media_duration_ms": 80.0,
+      "sequence": 6,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 413.6963749770075,
+      "media_duration_ms": 80.0,
+      "sequence": 7,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 461.6675000288524,
+      "media_duration_ms": 80.0,
+      "sequence": 8,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 509.9035000312142,
+      "media_duration_ms": 80.0,
+      "sequence": 9,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 555.5620830273256,
+      "media_duration_ms": 80.0,
+      "sequence": 10,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 603.0297499964945,
+      "media_duration_ms": 80.0,
+      "sequence": 11,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 651.5994999790564,
+      "media_duration_ms": 80.0,
+      "sequence": 12,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 697.9862080188468,
+      "media_duration_ms": 80.0,
+      "sequence": 13,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 744.9817080050707,
+      "media_duration_ms": 80.0,
+      "sequence": 14,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 792.1680409926921,
+      "media_duration_ms": 80.0,
+      "sequence": 15,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 839.4017909886315,
+      "media_duration_ms": 80.0,
+      "sequence": 16,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 887.5363330007531,
+      "media_duration_ms": 80.0,
+      "sequence": 17,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 974.2248749826103,
+      "media_duration_ms": 80.0,
+      "sequence": 18,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1021.9822499784641,
+      "media_duration_ms": 80.0,
+      "sequence": 19,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1068.6992080300115,
+      "media_duration_ms": 80.0,
+      "sequence": 20,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1116.136541008018,
+      "media_duration_ms": 80.0,
+      "sequence": 21,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1163.741916010622,
+      "media_duration_ms": 80.0,
+      "sequence": 22,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1210.9650829806924,
+      "media_duration_ms": 80.0,
+      "sequence": 23,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1257.8307910007425,
+      "media_duration_ms": 80.0,
+      "sequence": 24,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1306.1704579740763,
+      "media_duration_ms": 80.0,
+      "sequence": 25,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1352.2946659941226,
+      "media_duration_ms": 80.0,
+      "sequence": 26,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1399.9042499926873,
+      "media_duration_ms": 80.0,
+      "sequence": 27,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1447.8948750183918,
+      "media_duration_ms": 80.0,
+      "sequence": 28,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1497.8042499860749,
+      "media_duration_ms": 80.0,
+      "sequence": 29,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1542.5707909744233,
+      "media_duration_ms": 80.0,
+      "sequence": 30,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1590.2744579943828,
+      "media_duration_ms": 80.0,
+      "sequence": 31,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1636.700082977768,
+      "media_duration_ms": 80.0,
+      "sequence": 32,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1683.7330409907736,
+      "media_duration_ms": 80.0,
+      "sequence": 33,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1731.2887500156648,
+      "media_duration_ms": 80.0,
+      "sequence": 34,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1781.3934159930795,
+      "media_duration_ms": 80.0,
+      "sequence": 35,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1825.7508749957196,
+      "media_duration_ms": 80.0,
+      "sequence": 36,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1872.8520830045454,
+      "media_duration_ms": 80.0,
+      "sequence": 37,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1919.8471659910865,
+      "media_duration_ms": 80.0,
+      "sequence": 38,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 1967.472375021316,
+      "media_duration_ms": 80.0,
+      "sequence": 39,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2015.1060830103233,
+      "media_duration_ms": 80.0,
+      "sequence": 40,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2062.0879160123877,
+      "media_duration_ms": 80.0,
+      "sequence": 41,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2108.9206250035204,
+      "media_duration_ms": 80.0,
+      "sequence": 42,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2156.857250025496,
+      "media_duration_ms": 80.0,
+      "sequence": 43,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2203.9959999965504,
+      "media_duration_ms": 80.0,
+      "sequence": 44,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2252.4076660047285,
+      "media_duration_ms": 80.0,
+      "sequence": 45,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2298.3166250051,
+      "media_duration_ms": 80.0,
+      "sequence": 46,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2345.860624976922,
+      "media_duration_ms": 80.0,
+      "sequence": 47,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2397.5998330279253,
+      "media_duration_ms": 80.0,
+      "sequence": 48,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2440.4939580126666,
+      "media_duration_ms": 80.0,
+      "sequence": 49,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2487.4743330292404,
+      "media_duration_ms": 80.0,
+      "sequence": 50,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2534.9174580187537,
+      "media_duration_ms": 80.0,
+      "sequence": 51,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2582.37050002208,
+      "media_duration_ms": 80.0,
+      "sequence": 52,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2629.372750001494,
+      "media_duration_ms": 80.0,
+      "sequence": 53,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2679.0007909876294,
+      "media_duration_ms": 80.0,
+      "sequence": 54,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2724.2659159819596,
+      "media_duration_ms": 80.0,
+      "sequence": 55,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2771.5994580066763,
+      "media_duration_ms": 80.0,
+      "sequence": 56,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2819.0204999991693,
+      "media_duration_ms": 80.0,
+      "sequence": 57,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2866.374208009802,
+      "media_duration_ms": 80.0,
+      "sequence": 58,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2913.832458027173,
+      "media_duration_ms": 80.0,
+      "sequence": 59,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 2961.018832982518,
+      "media_duration_ms": 80.0,
+      "sequence": 60,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 3009.0968330041505,
+      "media_duration_ms": 80.0,
+      "sequence": 61,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 3055.4777910001576,
+      "media_duration_ms": 80.0,
+      "sequence": 62,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 3102.909874985926,
+      "media_duration_ms": 80.0,
+      "sequence": 63,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 3149.9716250109486,
+      "media_duration_ms": 80.0,
+      "sequence": 64,
+      "size_bytes": 3840
+    },
+    {
+      "arrival_ms": 3184.911333024502,
+      "media_duration_ms": 6.0,
+      "sequence": 65,
+      "size_bytes": 288
+    }
+  ],
+  "completed_ms": 3185.064333025366,
+  "connection_reused": true,
+  "connection_setup_ms": 162.06524998415262,
+  "error": null,
+  "metadata": {
+    "lifecycle": [
+      {
+        "arrival_ms": 26.381707983091474,
+        "type": "SpeechStarted"
+      },
+      {
+        "arrival_ms": 26.393249980174005,
+        "type": "Flushed"
+      },
+      {
+        "arrival_ms": 3185.024374979548,
+        "type": "SpeechMetadata"
+      }
+    ],
+    "speech_metadata": {
+      "audio_duration_ms": 5200,
+      "billable_character_count": 109,
+      "controls_applied": {
+        "breaks_applied": 0,
+        "pronunciation_warnings": 0,
+        "pronunciations_applied": 0
+      },
+      "input_character_count": 109,
+      "type": "SpeechMetadata"
+    }
+  },
+  "model": "flux-haley-en",
+  "prompt_id": "medium_support",
+  "provider": "deepgram",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:17:06.212805+00:00",
+  "success": true,
+  "text_chars": 109,
+  "text_sha256": "f8271fc43c4609ccae2ae6e86f07f90b7a7afdee44172e5b69d71e248971e9cf",
+  "trace_id": "deepgram-medium_support-r016",
+  "transport": "websocket",
+  "voice": "haley"
+}

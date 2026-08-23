@@ -1,0 +1,120 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 94.50491599272937,
+      "media_duration_ms": 154.0,
+      "sequence": 0,
+      "size_bytes": 7392
+    },
+    {
+      "arrival_ms": 168.97674999199808,
+      "media_duration_ms": 200.0,
+      "sequence": 1,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 169.07366598024964,
+      "media_duration_ms": 200.0,
+      "sequence": 2,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 169.15783297736198,
+      "media_duration_ms": 200.0,
+      "sequence": 3,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 169.18187495321035,
+      "media_duration_ms": 28.833333333333332,
+      "sequence": 4,
+      "size_bytes": 1384
+    },
+    {
+      "arrival_ms": 252.09391600219533,
+      "media_duration_ms": 200.0,
+      "sequence": 5,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 252.18691595364362,
+      "media_duration_ms": 200.0,
+      "sequence": 6,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 253.36183299077675,
+      "media_duration_ms": 200.0,
+      "sequence": 7,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 253.4747080062516,
+      "media_duration_ms": 200.0,
+      "sequence": 8,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 253.49966599605978,
+      "media_duration_ms": 8.5,
+      "sequence": 9,
+      "size_bytes": 408
+    },
+    {
+      "arrival_ms": 300.82354095065966,
+      "media_duration_ms": 200.0,
+      "sequence": 10,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 300.9352499502711,
+      "media_duration_ms": 200.0,
+      "sequence": 11,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 300.9571659495123,
+      "media_duration_ms": 8.666666666666666,
+      "sequence": 12,
+      "size_bytes": 416
+    }
+  ],
+  "completed_ms": 306.28399999113753,
+  "connection_reused": true,
+  "connection_setup_ms": 381.09091599471867,
+  "error": null,
+  "metadata": {
+    "api_version": "2026-03-01",
+    "server_step_ms": [
+      44.98564,
+      76.68796,
+      0.0,
+      0.0,
+      0.0,
+      84.094475,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      47.598663,
+      0.0,
+      0.0
+    ]
+  },
+  "model": "sonic-3.5-2026-05-04",
+  "prompt_id": "short_question",
+  "provider": "cartesia",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:17:03.967945+00:00",
+  "success": true,
+  "text_chars": 40,
+  "text_sha256": "4262dae8826156446fa7a196bd61ab5d49ff9181e842b0c16f19eb8f4e6ed8f2",
+  "trace_id": "cartesia-short_question-r005",
+  "transport": "websocket",
+  "voice": "6ccbfb76-1fc6-48f7-b71d-91ac6298247b"
+}

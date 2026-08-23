@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If this benchmark helps your work, please cite the repository and the exact run manifest."
+title: "Voice Stream SLO Lab"
+type: software
+authors:
+  - family-names: Mahadik
+    given-names: Rahul
+version: 0.1.0
+date-released: 2026-08-23
+license: MIT
+abstract: >-
+  A provider-neutral benchmark for client-observed streaming TTS pacing,
+  delivery real-time factor, jitter-buffer underruns, and recovery behavior.

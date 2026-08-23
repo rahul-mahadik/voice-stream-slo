@@ -1,0 +1,127 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 87.36995898652822,
+      "media_duration_ms": 154.0,
+      "sequence": 0,
+      "size_bytes": 7392
+    },
+    {
+      "arrival_ms": 153.48837501369417,
+      "media_duration_ms": 200.0,
+      "sequence": 1,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 153.60258403234184,
+      "media_duration_ms": 200.0,
+      "sequence": 2,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 153.7033339845948,
+      "media_duration_ms": 200.0,
+      "sequence": 3,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 155.3252920275554,
+      "media_duration_ms": 195.66666666666666,
+      "sequence": 4,
+      "size_bytes": 9392
+    },
+    {
+      "arrival_ms": 232.57191700395197,
+      "media_duration_ms": 200.0,
+      "sequence": 5,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 232.72158403415233,
+      "media_duration_ms": 200.0,
+      "sequence": 6,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 232.85629198653623,
+      "media_duration_ms": 200.0,
+      "sequence": 7,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 232.94466699007899,
+      "media_duration_ms": 118.66666666666667,
+      "sequence": 8,
+      "size_bytes": 5696
+    },
+    {
+      "arrival_ms": 316.74237502738833,
+      "media_duration_ms": 200.0,
+      "sequence": 9,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 316.8908340157941,
+      "media_duration_ms": 200.0,
+      "sequence": 10,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 317.0217919978313,
+      "media_duration_ms": 200.0,
+      "sequence": 11,
+      "size_bytes": 9600
+    },
+    {
+      "arrival_ms": 317.14887503767386,
+      "media_duration_ms": 195.66666666666666,
+      "sequence": 12,
+      "size_bytes": 9392
+    },
+    {
+      "arrival_ms": 341.9357920065522,
+      "media_duration_ms": 176.0,
+      "sequence": 13,
+      "size_bytes": 8448
+    }
+  ],
+  "completed_ms": 352.3849170305766,
+  "connection_reused": true,
+  "connection_setup_ms": 381.09091599471867,
+  "error": null,
+  "metadata": {
+    "api_version": "2026-03-01",
+    "server_step_ms": [
+      49.611668,
+      66.707535,
+      0.0,
+      0.0,
+      0.0,
+      78.87938,
+      0.0,
+      0.0,
+      0.0,
+      78.79377,
+      0.0,
+      0.0,
+      0.0,
+      29.909609
+    ]
+  },
+  "model": "sonic-3.5-2026-05-04",
+  "prompt_id": "short_ack",
+  "provider": "cartesia",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:15:49.529813+00:00",
+  "success": true,
+  "text_chars": 33,
+  "text_sha256": "71182c6c0aefdf8e2f6a592090f013e458a3a450ee8aebe19ee8e636aa606526",
+  "trace_id": "cartesia-short_ack-r010",
+  "transport": "websocket",
+  "voice": "6ccbfb76-1fc6-48f7-b71d-91ac6298247b"
+}

@@ -1,0 +1,3352 @@
+{
+  "audio": {
+    "channels": 1,
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2
+  },
+  "chunks": [
+    {
+      "arrival_ms": 213.64254195941612,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 0,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 213.72950001386926,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 1,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 213.7971249758266,
+      "media_duration_ms": 27.895833333333332,
+      "sequence": 2,
+      "size_bytes": 1339
+    },
+    {
+      "arrival_ms": 213.87066697934642,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 3,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 213.9286670135334,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 4,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 213.9857499860227,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 5,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 214.0479589579627,
+      "media_duration_ms": 25.354166666666668,
+      "sequence": 6,
+      "size_bytes": 1217
+    },
+    {
+      "arrival_ms": 214.1094999969937,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 7,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 214.16470897383988,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 8,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 214.21916701365262,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 9,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 214.2733340151608,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 10,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 214.32895900215954,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 11,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 214.3857500050217,
+      "media_duration_ms": 1.8958333333333333,
+      "sequence": 12,
+      "size_bytes": 91
+    },
+    {
+      "arrival_ms": 214.448791986797,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 13,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 214.50804197229445,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 14,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 214.56245897570625,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 15,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 214.616917015519,
+      "media_duration_ms": 2.75,
+      "sequence": 16,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 214.6773340064101,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 17,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 214.7389999590814,
+      "media_duration_ms": 15.6875,
+      "sequence": 18,
+      "size_bytes": 753
+    },
+    {
+      "arrival_ms": 226.81304201250896,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 19,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 226.8895420129411,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 20,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 226.94816696457565,
+      "media_duration_ms": 18.958333333333332,
+      "sequence": 21,
+      "size_bytes": 910
+    },
+    {
+      "arrival_ms": 227.01145900646225,
+      "media_duration_ms": 8.9375,
+      "sequence": 22,
+      "size_bytes": 429
+    },
+    {
+      "arrival_ms": 227.07245900528505,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 23,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 227.127791964449,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 24,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 227.18883398920298,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 25,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 227.24350000498816,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 26,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 227.29750000871718,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 27,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 227.79941698536277,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 28,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 227.86670899949968,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 29,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 230.14833399793133,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 30,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 230.21379200508818,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 31,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 230.27058399748057,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 32,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 230.3322089719586,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 33,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 230.38808396086097,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 34,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 230.44316697632894,
+      "media_duration_ms": 18.958333333333332,
+      "sequence": 35,
+      "size_bytes": 910
+    },
+    {
+      "arrival_ms": 230.50420900108293,
+      "media_duration_ms": 9.0625,
+      "sequence": 36,
+      "size_bytes": 435
+    },
+    {
+      "arrival_ms": 230.5634169606492,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 37,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 230.6174589903094,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 38,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 236.94629198871553,
+      "media_duration_ms": 21.354166666666668,
+      "sequence": 39,
+      "size_bytes": 1025
+    },
+    {
+      "arrival_ms": 335.02637495985255,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 40,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 335.16266697552055,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 41,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.22204199107364,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 42,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.27762501034886,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 43,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.33179201185703,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 44,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.38420900003985,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 45,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.4462920106016,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 46,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.4986250051297,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 47,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.5502499616705,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 48,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.60237498022616,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 49,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.65320901107043,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 50,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.7037089881487,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 51,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.75429196935147,
+      "media_duration_ms": 25.75,
+      "sequence": 52,
+      "size_bytes": 1236
+    },
+    {
+      "arrival_ms": 335.82024998031557,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 53,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 335.88062500348315,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 54,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 335.93404199928045,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 55,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 335.98508400609717,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 56,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 336.0399999655783,
+      "media_duration_ms": 17.270833333333332,
+      "sequence": 57,
+      "size_bytes": 829
+    },
+    {
+      "arrival_ms": 336.10129199223593,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 58,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 336.16199996322393,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 59,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 336.2152089830488,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 60,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 336.2726249615662,
+      "media_duration_ms": 2.625,
+      "sequence": 61,
+      "size_bytes": 126
+    },
+    {
+      "arrival_ms": 336.4539589965716,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 62,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 336.5613750065677,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 63,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 336.62191696930677,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 64,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 336.7147090029903,
+      "media_duration_ms": 2.75,
+      "sequence": 65,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 336.79500001017004,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 66,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 336.8526669801213,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 67,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 337.18379196943715,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 68,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 337.39125001011416,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 69,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 337.61733397841454,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 70,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 337.6906249905005,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 71,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 337.7426670049317,
+      "media_duration_ms": 5.1875,
+      "sequence": 72,
+      "size_bytes": 249
+    },
+    {
+      "arrival_ms": 337.8097919630818,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 73,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 337.90079201571643,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 74,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 338.833583984524,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 75,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 338.91824999591336,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 76,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 338.98408396635205,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 77,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 339.03212496079504,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 78,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.0770420082845,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 79,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.12062499439344,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 80,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.16345896432176,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 81,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.2073339782655,
+      "media_duration_ms": 27.083333333333332,
+      "sequence": 82,
+      "size_bytes": 1300
+    },
+    {
+      "arrival_ms": 339.2564589739777,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 83,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 339.2999590141699,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 84,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 339.34754197252914,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 85,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 339.3914169864729,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 86,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.43345898296684,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 87,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.4753749598749,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 88,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.5184169639833,
+      "media_duration_ms": 5.1875,
+      "sequence": 89,
+      "size_bytes": 249
+    },
+    {
+      "arrival_ms": 339.5655839703977,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 90,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 339.6133749629371,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 91,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 339.65595898916945,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 92,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.6989169996232,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 93,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 339.74174998002127,
+      "media_duration_ms": 24.833333333333332,
+      "sequence": 94,
+      "size_bytes": 1192
+    },
+    {
+      "arrival_ms": 342.0490839635022,
+      "media_duration_ms": 25.5,
+      "sequence": 95,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 342.13933401042596,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 96,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 342.19208400463685,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 97,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.2391669591889,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 98,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.2828339971602,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 99,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.32641698326916,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 100,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.3689999617636,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 101,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.4108339822851,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 102,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.45312499115244,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 103,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 342.496458964888,
+      "media_duration_ms": 0.7916666666666666,
+      "sequence": 104,
+      "size_bytes": 38
+    },
+    {
+      "arrival_ms": 343.18145900033414,
+      "media_duration_ms": 25.5,
+      "sequence": 105,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 343.2754169916734,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 106,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 343.32879196153954,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 107,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.3739169850014,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 108,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.41854200465605,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 109,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.46174995880574,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 110,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.50512496894225,
+      "media_duration_ms": 1.75,
+      "sequence": 111,
+      "size_bytes": 84
+    },
+    {
+      "arrival_ms": 343.55620900169015,
+      "media_duration_ms": 25.5,
+      "sequence": 112,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 343.6050839954987,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 113,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 343.6477920040488,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 114,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.69054198032245,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 115,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.7317499774508,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 116,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.7743340036832,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 117,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.8163750106469,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 118,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 343.85999996447936,
+      "media_duration_ms": 7.4375,
+      "sequence": 119,
+      "size_bytes": 357
+    },
+    {
+      "arrival_ms": 345.6090000108816,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 120,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 345.6659590010531,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 121,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 345.7104589906521,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 122,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 345.75308399507776,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 123,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 345.795166969765,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 124,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 345.8391249878332,
+      "media_duration_ms": 27.25,
+      "sequence": 125,
+      "size_bytes": 1308
+    },
+    {
+      "arrival_ms": 348.3089999645017,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 126,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 348.41133398003876,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 127,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 348.46845897845924,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 128,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 348.5213340027258,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 129,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 348.5717090079561,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 130,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 348.6222089850344,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 131,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 348.67233398836106,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 132,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 348.72283396543935,
+      "media_duration_ms": 24.041666666666668,
+      "sequence": 133,
+      "size_bytes": 1154
+    },
+    {
+      "arrival_ms": 349.27004197379574,
+      "media_duration_ms": 25.5,
+      "sequence": 134,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 349.3334589875303,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 135,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 349.3861249880865,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 136,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 349.43683398887515,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 137,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 349.4871669681743,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 138,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 349.5370839955285,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 139,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 349.58662500139326,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 140,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 349.6360419667326,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 141,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 359.6662919735536,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 142,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 359.76495896466076,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 143,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 359.81629200978205,
+      "media_duration_ms": 6.645833333333333,
+      "sequence": 144,
+      "size_bytes": 319
+    },
+    {
+      "arrival_ms": 359.8811670090072,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 145,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 359.9384999834001,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 146,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 359.9820419913158,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 147,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.0252089672722,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 148,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.0675839697942,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 149,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.10983400046825,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 150,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.1716249831952,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 151,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.2137499838136,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 152,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.25583400623873,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 153,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.29758397489786,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 154,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.3388749761507,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 155,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.39641697425395,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 156,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.454999958165,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 157,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.6804169830866,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 158,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.74570898199454,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 159,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.78920896397904,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 160,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.83112499909475,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 161,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.8731669955887,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 162,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.9146249946207,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 163,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.95729196676984,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 164,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 360.9993749996647,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 165,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.0405839863233,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 166,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.0937919584103,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 167,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.1363339587115,
+      "media_duration_ms": 22.5,
+      "sequence": 168,
+      "size_bytes": 1080
+    },
+    {
+      "arrival_ms": 361.19183397386223,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 169,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 361.2352919881232,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 170,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.2774169887416,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 171,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.3191670156084,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 172,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.36195895960554,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 173,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.4027500152588,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 174,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.44445900572464,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 175,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.6340839653276,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 176,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.7437919601798,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 177,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.82183399796486,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 178,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.8697499623522,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 179,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.913624976296,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 180,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 361.95649998262525,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 181,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.01116698794067,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 182,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.0532089844346,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 183,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.09504201542586,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 184,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.1384589932859,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 185,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.1817500097677,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 186,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.223666976206,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 187,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.2662089765072,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 188,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.3081250116229,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 189,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 362.36483399989083,
+      "media_duration_ms": 18.541666666666668,
+      "sequence": 190,
+      "size_bytes": 890
+    },
+    {
+      "arrival_ms": 518.34745897213,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 191,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 518.4653750038706,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 192,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 518.5972499893978,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 193,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 518.7010419904254,
+      "media_duration_ms": 5.833333333333333,
+      "sequence": 194,
+      "size_bytes": 280
+    },
+    {
+      "arrival_ms": 518.7777919927612,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 195,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 518.9061670098454,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 196,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 519.0172920119949,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 197,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 519.1284170141444,
+      "media_duration_ms": 2.75,
+      "sequence": 198,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 519.2534999805503,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 199,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 519.3615420139395,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 200,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 519.4858749746345,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 201,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 519.5977090043016,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 202,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 519.7019170154817,
+      "media_duration_ms": 2.5208333333333335,
+      "sequence": 203,
+      "size_bytes": 121
+    },
+    {
+      "arrival_ms": 519.8258750024252,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 204,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 519.9332920019515,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 205,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 520.0392499682494,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 206,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 520.143958972767,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 207,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 520.2495419653133,
+      "media_duration_ms": 21.625,
+      "sequence": 208,
+      "size_bytes": 1038
+    },
+    {
+      "arrival_ms": 520.3727089683525,
+      "media_duration_ms": 9.0625,
+      "sequence": 209,
+      "size_bytes": 435
+    },
+    {
+      "arrival_ms": 520.4932919587009,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 210,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 521.005459013395,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 211,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 521.0965420119464,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 212,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 521.1775419884361,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 213,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 521.2603749823757,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 214,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 521.3427919661626,
+      "media_duration_ms": 17.354166666666668,
+      "sequence": 215,
+      "size_bytes": 833
+    },
+    {
+      "arrival_ms": 521.4317499776371,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 216,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 521.5220419922844,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 217,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 521.6007499839179,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 218,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 521.6802500071935,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 219,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 521.7563339974731,
+      "media_duration_ms": 24.833333333333332,
+      "sequence": 220,
+      "size_bytes": 1192
+    },
+    {
+      "arrival_ms": 522.1665839781053,
+      "media_duration_ms": 25.5,
+      "sequence": 221,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 522.2836249740794,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 222,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 522.3953339736909,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 223,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 522.4962919601239,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 224,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 522.606167010963,
+      "media_duration_ms": 9.0625,
+      "sequence": 225,
+      "size_bytes": 435
+    },
+    {
+      "arrival_ms": 522.7019169833511,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 226,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 522.8050419827923,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 227,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 522.9330419679172,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 228,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 523.124041967094,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 229,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 523.2292499858886,
+      "media_duration_ms": 25.5,
+      "sequence": 230,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 523.3024170156568,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 231,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 523.4285839833319,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 232,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 523.5234170104377,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 233,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 523.8503749715164,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 234,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 523.9178749616258,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 235,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 523.9952089614235,
+      "media_duration_ms": 1.5833333333333333,
+      "sequence": 236,
+      "size_bytes": 76
+    },
+    {
+      "arrival_ms": 524.082958989311,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 237,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 524.1469169850461,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 238,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 524.2212499724701,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 239,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 524.766958958935,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 240,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 524.8775840154849,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 241,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 524.9579999945126,
+      "media_duration_ms": 2.75,
+      "sequence": 242,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 525.02091700444,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 243,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 525.0733339926228,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 244,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 525.1835839590058,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 245,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 525.2522089867853,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 246,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 525.3059589886107,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 247,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 525.3569170017727,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 248,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 525.4150839755312,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 249,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 525.4659169586375,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 250,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 527.8214999707416,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 251,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 527.8825839632191,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 252,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 527.9129999689758,
+      "media_duration_ms": 19.125,
+      "sequence": 253,
+      "size_bytes": 918
+    },
+    {
+      "arrival_ms": 527.9438750003465,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 254,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 527.9684590059333,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 255,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 527.9925419599749,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 256,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.0160839902237,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 257,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.0402089701965,
+      "media_duration_ms": 4.854166666666667,
+      "sequence": 258,
+      "size_bytes": 233
+    },
+    {
+      "arrival_ms": 528.067542007193,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 259,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 528.1465839943849,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 260,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.215124970302,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 261,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.246791975107,
+      "media_duration_ms": 8.395833333333334,
+      "sequence": 262,
+      "size_bytes": 403
+    },
+    {
+      "arrival_ms": 528.2822920125909,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 263,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 528.3379589673132,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 264,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 528.3628340112045,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 265,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.390749997925,
+      "media_duration_ms": 2.75,
+      "sequence": 266,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 528.4293339936994,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 267,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 528.4531670040451,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 268,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 528.4789169672877,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 269,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 528.516334015876,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 270,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 528.5415839753114,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 271,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 528.5671669989824,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 272,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 528.5905000055209,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 273,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.612958965823,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 274,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 528.6384169594385,
+      "media_duration_ms": 24.666666666666668,
+      "sequence": 275,
+      "size_bytes": 1184
+    },
+    {
+      "arrival_ms": 529.9009169684723,
+      "media_duration_ms": 25.5,
+      "sequence": 276,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 529.938499967102,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 277,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 529.9895000061952,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 278,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 530.0593749852851,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 279,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 530.0952919642441,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 280,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 530.1452499697916,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 281,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 530.17316700425,
+      "media_duration_ms": 1.75,
+      "sequence": 282,
+      "size_bytes": 84
+    },
+    {
+      "arrival_ms": 530.2083750138991,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 283,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 530.2358340122737,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 284,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 530.2669169614092,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 285,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 530.3037919802591,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 286,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 530.3330419701524,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 287,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 530.3598750033416,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 288,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 530.3978339652531,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 289,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 530.4526669788174,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 290,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 530.4844590136781,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 291,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 530.5106249870732,
+      "media_duration_ms": 2.75,
+      "sequence": 292,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 530.5393749731593,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 293,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 530.5658339639194,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 294,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 533.6221670149826,
+      "media_duration_ms": 25.5,
+      "sequence": 295,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 533.6767089902423,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 296,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 533.7099169846624,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 297,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 533.7377919931896,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 298,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 533.7805419694632,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 299,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 533.8078750064597,
+      "media_duration_ms": 4.791666666666667,
+      "sequence": 300,
+      "size_bytes": 230
+    },
+    {
+      "arrival_ms": 533.8394590071402,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 301,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 533.8658340042457,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 302,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 533.8919589994475,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 303,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 535.0452499696985,
+      "media_duration_ms": 25.5,
+      "sequence": 304,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 535.0960840005428,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 305,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 535.1268340018578,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 306,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.1538339746185,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 307,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.1799170020968,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 308,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.2064169710502,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 309,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.234084003605,
+      "media_duration_ms": 1.75,
+      "sequence": 310,
+      "size_bytes": 84
+    },
+    {
+      "arrival_ms": 535.2641670033336,
+      "media_duration_ms": 25.5,
+      "sequence": 311,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 535.2933339891024,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 312,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 535.3199169621803,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 313,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.3459999896586,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 314,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.3716670069844,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 315,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.3975420002826,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 316,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.4240000015125,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 317,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.7970839831978,
+      "media_duration_ms": 23.875,
+      "sequence": 318,
+      "size_bytes": 1146
+    },
+    {
+      "arrival_ms": 535.8372089685872,
+      "media_duration_ms": 25.25,
+      "sequence": 319,
+      "size_bytes": 1212
+    },
+    {
+      "arrival_ms": 535.8682089718059,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 320,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 535.8948750072159,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 321,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.9212089679204,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 322,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.9463749919087,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 323,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 535.9718750114553,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 324,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 536.0119169927202,
+      "media_duration_ms": 11.0625,
+      "sequence": 325,
+      "size_bytes": 531
+    },
+    {
+      "arrival_ms": 536.0417499905452,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 326,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 536.067541979719,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 327,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 539.3641669652425,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 328,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 539.4907089648768,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 329,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 539.5581669872627,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 330,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 539.623666962143,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 331,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 539.6758340066299,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 332,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 539.7331669810228,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 333,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 539.7970419726335,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 334,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 539.855416980572,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 335,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 539.9243750143796,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 336,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 539.9834589916281,
+      "media_duration_ms": 24.666666666666668,
+      "sequence": 337,
+      "size_bytes": 1184
+    },
+    {
+      "arrival_ms": 540.0611669756472,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 338,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 540.1301250094548,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 339,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.1801249827258,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 340,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.248958976008,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 341,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.306042006705,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 342,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.3723749914207,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 343,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.430249995552,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 344,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 540.500124974642,
+      "media_duration_ms": 4.395833333333333,
+      "sequence": 345,
+      "size_bytes": 211
+    },
+    {
+      "arrival_ms": 541.2490419694223,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 346,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 541.3283749949187,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 347,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 541.3818339584395,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 348,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 541.4495000150055,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 349,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 541.518084006384,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 350,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 541.5730419917963,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 351,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 541.6400000103749,
+      "media_duration_ms": 1.8125,
+      "sequence": 352,
+      "size_bytes": 87
+    },
+    {
+      "arrival_ms": 541.6995839914307,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 353,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 541.7644169647247,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 354,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 542.6735419896431,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 355,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 542.7322089672089,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 356,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 542.8145420155488,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 357,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 542.870250006672,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 358,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 542.9259169613943,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 359,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 542.9995839949697,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 360,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 543.0580839747563,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 361,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 543.1244999635965,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 362,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 543.1904589640908,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 363,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 543.2422090088949,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 364,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 544.8395839775912,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 365,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 544.9127919855528,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 366,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 544.9673339608125,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 367,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 545.0276669580489,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 368,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 545.0832089991309,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 369,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.1366669731215,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 370,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.188624993898,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 371,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.2427089912817,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 372,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.2973339706659,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 373,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.3487919876352,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 374,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 545.4005419742316,
+      "media_duration_ms": 4.229166666666667,
+      "sequence": 375,
+      "size_bytes": 203
+    },
+    {
+      "arrival_ms": 545.4599169897847,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 376,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 545.514874975197,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 377,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 545.5809999839403,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 378,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 546.4454169850796,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 379,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 546.5205420041457,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 380,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 546.5739169740118,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 381,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 546.6385419713333,
+      "media_duration_ms": 5.1875,
+      "sequence": 382,
+      "size_bytes": 249
+    },
+    {
+      "arrival_ms": 546.7045420082286,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 383,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 546.7705840128474,
+      "media_duration_ms": 25.5,
+      "sequence": 384,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 546.8322919914499,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 385,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 546.884624985978,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 386,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 546.9427090138197,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 387,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 546.9982919748873,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 388,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 547.0522919786163,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 389,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 547.7942919824272,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 390,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 547.860209015198,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 391,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 547.9405839578249,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 392,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 547.999374975916,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 393,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 548.0695840087719,
+      "media_duration_ms": 27.854166666666668,
+      "sequence": 394,
+      "size_bytes": 1337
+    },
+    {
+      "arrival_ms": 548.1344169820659,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 395,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 548.1928749941289,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 396,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 548.2462919899262,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 397,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 548.3011669712141,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 398,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 548.3607089845464,
+      "media_duration_ms": 5.1875,
+      "sequence": 399,
+      "size_bytes": 249
+    },
+    {
+      "arrival_ms": 548.5439999611117,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 400,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 548.6245839856565,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 401,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 548.6802500090562,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 402,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 548.7477499991655,
+      "media_duration_ms": 2.75,
+      "sequence": 403,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 548.8061669748276,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 404,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 548.856874986086,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 405,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 552.7477919822559,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 406,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 552.7944169589318,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 407,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.8240000130609,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 408,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.8513339813799,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 409,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.8770840028301,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 410,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.9032089980319,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 411,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.9292919673026,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 412,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 552.9562499723397,
+      "media_duration_ms": 4.229166666666667,
+      "sequence": 413,
+      "size_bytes": 203
+    },
+    {
+      "arrival_ms": 552.9871250037104,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 414,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 553.0133749707602,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 415,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.0390840140171,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 416,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.0642920057289,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 417,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.089958964847,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 418,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.1156669603661,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 419,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.1408750102855,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 420,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.1673340010457,
+      "media_duration_ms": 20.604166666666668,
+      "sequence": 421,
+      "size_bytes": 989
+    },
+    {
+      "arrival_ms": 553.7347499630414,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 422,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 553.7697089603171,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 423,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.7977089988999,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 424,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.8242089678533,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 425,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.8507499732077,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 426,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.8767499965616,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 427,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.9027499617077,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 428,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.9284169790335,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 429,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 553.9545419742353,
+      "media_duration_ms": 26.458333333333332,
+      "sequence": 430,
+      "size_bytes": 1270
+    },
+    {
+      "arrival_ms": 554.5873749651946,
+      "media_duration_ms": 25.5,
+      "sequence": 431,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 554.6291669597849,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 432,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 554.6614589984529,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 433,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 554.6912499703467,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 434,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 554.7247499926016,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 435,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 554.7552090138197,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 436,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 554.78658399079,
+      "media_duration_ms": 27.083333333333332,
+      "sequence": 437,
+      "size_bytes": 1300
+    },
+    {
+      "arrival_ms": 555.7676249882206,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 438,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 555.8030839893036,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 439,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 555.834041966591,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 440,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 555.8655000058934,
+      "media_duration_ms": 8.395833333333334,
+      "sequence": 441,
+      "size_bytes": 403
+    },
+    {
+      "arrival_ms": 555.8988749980927,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 442,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 555.9288340155035,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 443,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 555.9603339643218,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 444,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 555.9919590014033,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 445,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 556.0242090141401,
+      "media_duration_ms": 21.395833333333332,
+      "sequence": 446,
+      "size_bytes": 1027
+    },
+    {
+      "arrival_ms": 556.058291986119,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 447,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 556.088917015586,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 448,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 558.3668749895878,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 449,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 558.4086669841781,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 450,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 558.4398339851759,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 451,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 558.4699590108357,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 452,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 558.5005420143716,
+      "media_duration_ms": 21.229166666666668,
+      "sequence": 453,
+      "size_bytes": 1019
+    },
+    {
+      "arrival_ms": 558.534208976198,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 454,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 558.5646249819547,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 455,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 558.597875002306,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 456,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 558.6324589676224,
+      "media_duration_ms": 25.5,
+      "sequence": 457,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 573.1289169634692,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 458,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 573.169874958694,
+      "media_duration_ms": 5.958333333333333,
+      "sequence": 459,
+      "size_bytes": 286
+    },
+    {
+      "arrival_ms": 573.2057089917362,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 460,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 573.2361669652164,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 461,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 573.266249964945,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 462,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 574.6860419749282,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 463,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 574.8059590114281,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 464,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 574.8670420143753,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 465,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 574.9370839912444,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 466,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 574.9922919785604,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 467,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 575.0438339891843,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 468,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 575.0945839681663,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 469,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 575.1445419737138,
+      "media_duration_ms": 21.229166666666668,
+      "sequence": 470,
+      "size_bytes": 1019
+    },
+    {
+      "arrival_ms": 576.9462920143269,
+      "media_duration_ms": 25.5,
+      "sequence": 471,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 577.0309999934398,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 472,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 577.0888339611702,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 473,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 577.1408749860711,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 474,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 577.2010419750586,
+      "media_duration_ms": 8.395833333333334,
+      "sequence": 475,
+      "size_bytes": 403
+    },
+    {
+      "arrival_ms": 577.2648339625448,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 476,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 577.3256669635884,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 477,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 577.3782499600202,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 478,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 577.4347920087166,
+      "media_duration_ms": 2.75,
+      "sequence": 479,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 577.4964169831946,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 480,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 577.548792003654,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 481,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 577.5982919731177,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 482,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 578.2567919814028,
+      "media_duration_ms": 24.604166666666668,
+      "sequence": 483,
+      "size_bytes": 1181
+    },
+    {
+      "arrival_ms": 578.3307089586742,
+      "media_duration_ms": 25.5,
+      "sequence": 484,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 578.3904590061866,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 485,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 579.6720419893973,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 486,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 579.7425420023501,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 487,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 579.8150839982554,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 488,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 579.9218749743886,
+      "media_duration_ms": 5.020833333333333,
+      "sequence": 489,
+      "size_bytes": 241
+    },
+    {
+      "arrival_ms": 580.0071249832399,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 490,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 580.0646669813432,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 491,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 580.1200419664383,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 492,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 580.1931669702753,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 493,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 580.2520419820212,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 494,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 580.3077089949511,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 495,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 580.3622499806806,
+      "media_duration_ms": 2.75,
+      "sequence": 496,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 581.2847089837305,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 497,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 581.3437919714488,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 498,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 581.4035839866847,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 499,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 581.4612089889124,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 500,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 581.5212089801207,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 501,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 581.5709590096958,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 502,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 581.6369169624522,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 503,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 581.6885419772007,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 504,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 581.7386250128038,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 505,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 582.8364170156419,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 506,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 582.8917499748059,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 507,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 582.9437089851126,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 508,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 582.9945839941502,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 509,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.050541987177,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 510,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.1014169962145,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 511,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.1517920014448,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 512,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.2039169617929,
+      "media_duration_ms": 20.4375,
+      "sequence": 513,
+      "size_bytes": 981
+    },
+    {
+      "arrival_ms": 583.2619169959798,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 514,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 583.3124999771826,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 515,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.3631670102477,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 516,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.5118750110269,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 517,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 583.5652920068242,
+      "media_duration_ms": 5.1875,
+      "sequence": 518,
+      "size_bytes": 249
+    },
+    {
+      "arrival_ms": 583.6279590148479,
+      "media_duration_ms": 25.270833333333332,
+      "sequence": 519,
+      "size_bytes": 1213
+    },
+    {
+      "arrival_ms": 584.1617920086719,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 520,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 584.2324999975972,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 521,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 584.2932089581154,
+      "media_duration_ms": 2.75,
+      "sequence": 522,
+      "size_bytes": 132
+    },
+    {
+      "arrival_ms": 584.3635000055656,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 523,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 584.4247919740155,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 524,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 584.48637498077,
+      "media_duration_ms": 28.041666666666668,
+      "sequence": 525,
+      "size_bytes": 1346
+    },
+    {
+      "arrival_ms": 584.5553749823011,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 526,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 584.6178340143524,
+      "media_duration_ms": 22.166666666666668,
+      "sequence": 527,
+      "size_bytes": 1064
+    },
+    {
+      "arrival_ms": 586.5782499895431,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 528,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 586.635000014212,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 529,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.6736249881797,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 530,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.7100839968771,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 531,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.7570000118576,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 532,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.7934589623474,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 533,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.8303749593906,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 534,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.8661249987781,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 535,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.9006249704398,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 536,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.935999977868,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 537,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 586.970417003613,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 538,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 587.0055420091376,
+      "media_duration_ms": 25.5,
+      "sequence": 539,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 589.1784589621238,
+      "media_duration_ms": 25.5,
+      "sequence": 540,
+      "size_bytes": 1224
+    },
+    {
+      "arrival_ms": 589.2301669809967,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 541,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 589.2692499910481,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 542,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.3056669738144,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 543,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.343708998058,
+      "media_duration_ms": 8.395833333333334,
+      "sequence": 544,
+      "size_bytes": 403
+    },
+    {
+      "arrival_ms": 589.3838339834474,
+      "media_duration_ms": 28.583333333333332,
+      "sequence": 545,
+      "size_bytes": 1372
+    },
+    {
+      "arrival_ms": 589.4183749915101,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 546,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.4529590150341,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 547,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.4872089847922,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 548,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.521459012758,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 549,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.5563749945723,
+      "media_duration_ms": 27.083333333333332,
+      "sequence": 550,
+      "size_bytes": 1300
+    },
+    {
+      "arrival_ms": 589.593791984953,
+      "media_duration_ms": 28.604166666666668,
+      "sequence": 551,
+      "size_bytes": 1373
+    },
+    {
+      "arrival_ms": 589.6284590126015,
+      "media_duration_ms": 28.708333333333332,
+      "sequence": 552,
+      "size_bytes": 1378
+    },
+    {
+      "arrival_ms": 589.6639589918777,
+      "media_duration_ms": 5.8125,
+      "sequence": 553,
+      "size_bytes": 279
+    }
+  ],
+  "completed_ms": 589.9437500047497,
+  "connection_reused": true,
+  "connection_setup_ms": 0.0,
+  "error": null,
+  "metadata": {
+    "http_version": "HTTP/1.1",
+    "output_format": "pcm_24000"
+  },
+  "model": "eleven_flash_v2_5",
+  "prompt_id": "long_itinerary",
+  "provider": "elevenlabs",
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:17:31.490189+00:00",
+  "success": true,
+  "text_chars": 235,
+  "text_sha256": "02e85f9ab0d139f828eb64a45a1d225194a124355984553f7bf6b9659dedf97f",
+  "trace_id": "elevenlabs-long_itinerary-r013",
+  "transport": "http-chunked",
+  "voice": "JBFqnCBsd6RMkjVDRZzb"
+}

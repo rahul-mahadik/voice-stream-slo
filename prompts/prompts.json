@@ -1,0 +1,32 @@
+[
+  {
+    "id": "short_ack",
+    "length": "short",
+    "text": "Absolutely. I can help with that."
+  },
+  {
+    "id": "short_question",
+    "length": "short",
+    "text": "Would you like me to check another date?"
+  },
+  {
+    "id": "medium_booking",
+    "length": "medium",
+    "text": "Your appointment is confirmed for Tuesday at three thirty in the afternoon. Would you like me to send a reminder?"
+  },
+  {
+    "id": "medium_support",
+    "length": "medium",
+    "text": "I found the charge you mentioned. It was posted yesterday, and I can walk you through the refund options now."
+  },
+  {
+    "id": "long_itinerary",
+    "length": "long",
+    "text": "I found two flights that match your schedule. The earlier option leaves at seven forty-five in the morning and includes one checked bag. The later option costs twenty-eight dollars less, but it arrives after the rental car desk closes."
+  },
+  {
+    "id": "long_incident",
+    "length": "long",
+    "text": "The service is responding again, but we are still monitoring the payment queue. No transactions were lost, and delayed confirmations should arrive within ten minutes. If yours does not appear, I can open a support case without asking you to repeat these details."
+  }
+]

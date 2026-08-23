@@ -1,0 +1,19 @@
+{
+  "successful_traces": 360,
+  "failed_traces": 0,
+  "providers_or_scenarios": [
+    "bursty_same_ttfa",
+    "late_but_steady",
+    "steady"
+  ],
+  "buffer_depths_ms": [
+    0.0,
+    20.0,
+    40.0,
+    80.0,
+    120.0,
+    200.0
+  ],
+  "comparison_depth_ms": 80.0,
+  "synthetic": true
+}

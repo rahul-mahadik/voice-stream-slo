@@ -1,0 +1,36 @@
+{
+  "successful_traces": 360,
+  "failed_traces": 0,
+  "providers_or_scenarios": [
+    "cartesia",
+    "deepgram",
+    "elevenlabs"
+  ],
+  "buffer_depths_ms": [
+    0.0,
+    20.0,
+    40.0,
+    80.0,
+    120.0,
+    200.0
+  ],
+  "comparison_depth_ms": 80.0,
+  "synthetic": false,
+  "stress_replay": {
+    "buffer_depth_ms": 80,
+    "pause_durations_ms": [
+      0,
+      50,
+      100,
+      200,
+      400,
+      800,
+      1200
+    ],
+    "injection_audio_fractions": [
+      0.25,
+      0.5,
+      0.75
+    ]
+  }
+}

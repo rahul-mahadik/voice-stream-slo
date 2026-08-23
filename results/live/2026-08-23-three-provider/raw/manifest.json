@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "started_at_utc": "2026-08-23T21:07:35.408170+00:00",
+  "providers": [
+    "cartesia",
+    "deepgram",
+    "elevenlabs"
+  ],
+  "models": {
+    "cartesia": "sonic-3.5-2026-05-04",
+    "deepgram": "flux-haley-en",
+    "elevenlabs": "eleven_flash_v2_5"
+  },
+  "repetitions": 20,
+  "warmups": 2,
+  "seed": 20260823,
+  "network_label": "Codex desktop client, America/Los_Angeles; provider POP not measured",
+  "audio": {
+    "sample_rate_hz": 24000,
+    "sample_width_bytes": 2,
+    "channels": 1
+  },
+  "platform": "macOS-14.0-arm64-arm-64bit",
+  "python": "3.11.5",
+  "completed_at_utc": "2026-08-23T21:20:05.848331+00:00",
+  "counts": {
+    "success": 360,
+    "failure": 0
+  }
+}
