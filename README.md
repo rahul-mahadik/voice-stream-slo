@@ -1,61 +1,42 @@
 # Voice Stream SLO Lab
 
-**Time to first audio tells you when speech starts. It does not tell you whether the rest of the utterance stays playable.**
+A client-side benchmark for streaming TTS delivery. It measures whether audio remains playable after the first bytes arrive, not only time to first audio (TTFA).
 
-This repository benchmarks the client-visible delivery path of streaming text-to-speech systems. It records every playable PCM receive event, converts bytes into media time, and replays the trace through configurable jitter buffers. The goal is a reproducible answer to a production question: *would a voice agent glitch after it started talking?*
+## Results
 
-The project is provider-neutral. The live protocol covers four low-latency, agent-oriented offerings using the same 24 kHz, 16-bit, mono PCM boundary:
+The first live run used six English agent prompts, 20 repetitions, and three providers. Requests were warmed, globally serial, and interleaved. All 360 measured requests returned playable 24 kHz PCM.
 
-| Provider | Pinned model | Transport |
-|---|---|---|
-| Cartesia | `sonic-3.5-2026-05-04` | persistent WebSocket |
-| Deepgram | `flux-haley-en` | persistent WebSocket |
-| ElevenLabs | `eleven_flash_v2_5` | chunked HTTP |
-| OpenAI | `gpt-4o-mini-tts` | chunked HTTP |
+| Provider | Median TTFA | Baseline playable success | Median delivery RTF | 400 ms pause survival |
+|---|---:|---:|---:|---:|
+| Cartesia Sonic 3.5 | 91.4 ms | 100% | 0.118 | 90.8% |
+| Deepgram Flux | 93.2 ms | 100% | 0.614 | 66.7% |
+| ElevenLabs Flash | 195.2 ms | 100% | 0.059 | 100% |
 
-Model choice is declared rather than presented as a permanent ranking. Provider APIs and aliases change; every published run includes its exact configuration and UTC collection window.
-
-## What it measures
-
-- **Time to first audio (TTFA):** request send to the first playable PCM bytes.
-- **Inter-chunk arrival distribution:** raw receive gaps, plus *pacing error*—arrival gap minus the playable duration of the preceding chunk.
-- **Delivery real-time factor:** elapsed delivery time divided by cumulative playable audio, both at each prefix and for the full utterance.
-- **Underruns by buffer depth:** starvation events at 0, 20, 40, 80, 120, and 200 ms of initial buffering.
-- **Recovery behavior:** time from buffer starvation until the next playable chunk arrives.
-- **Playable-success rate:** the request succeeds and has zero underruns at the declared buffer depth. Failed requests count as broken playback.
-- **Controlled pause survival:** whether the recorded delivery remains playable after the same one-off downstream receive pause is injected at multiple utterance positions.
-
-See the exact definitions and simulator state machine in [the methodology](docs/methodology.md).
-
-## Why TTFA is insufficient
-
-The checked-in synthetic validation contains a steady stream and a bursty stream with nearly identical TTFA. Their mid-utterance behavior is deliberately different. This is a test of the instrumentation—not a provider result.
-
-![TTFA versus playable success](results/synthetic/analysis/figures/ttfa_vs_glitch_free.png)
-
-![Underruns by buffer depth](results/synthetic/analysis/figures/underruns_by_buffer.png)
-
-## First live run
-
-The first declared live collection used Cartesia Sonic 3.5, Deepgram Flux, and
-ElevenLabs Flash: six prompts × 20 repetitions × three providers, globally
-serial and interleaved. All 360 measured requests returned playable PCM.
-
-No provider recorded an underrun in the observed low-load baseline, even with the simulator's
-zero-depth target. That is a result, but not a resilience ranking: every captured
-stream stayed ahead of playback. The controlled receive-pause replay reveals the
-different amounts of headroom without pretending the injected pause was observed
-provider behavior.
+No provider recorded a baseline underrun at initial buffer targets from 0 to 200 ms. The controlled pause replay is therefore the more discriminating result: it measures how much delivery headroom each recorded stream contained. The pause is injected during replay and is not an observed provider outage.
 
 ![Controlled receive-pause replay](results/live/2026-08-23-three-provider/analysis/figures/stress_pause_curve.png)
 
 ![Delivery RTF over the utterance](results/live/2026-08-23-three-provider/analysis/figures/rtf_over_utterance.png)
 
-See the [live report](results/live/2026-08-23-three-provider/analysis/report.md),
-the long-form tables, and all 360 receive-event traces. This is one client, one
-collection window, six prompts, and low load—not a universal provider ordering.
+The [live report](results/live/2026-08-23-three-provider/analysis/report.md) contains confidence intervals and links to the long-form tables. All 360 receive-event traces are checked in under `results/live/`.
 
-## Reproduce the metric validation
+## Method
+
+Each adapter returns raw signed 16-bit, 24 kHz, mono PCM. The client records the arrival time and byte count of every playable receive event; raw audio is not retained.
+
+Reported metrics:
+
+- TTFA from request send to first playable PCM
+- inter-chunk gaps and pacing error
+- cumulative and full-utterance delivery real-time factor
+- underrun count and recovery time at 0, 20, 40, 80, 120, and 200 ms buffer targets
+- playable-success rate, with failed requests retained in the denominator
+
+The stress replay shifts the receive-event suffix by 0–1,200 ms when cumulative audio crosses 25%, 50%, and 75% of an utterance. A trace passes only if an 80 ms buffer survives all three locations. Continuous metrics use a hierarchical prompt/trial bootstrap; binary-rate intervals include a Wilson-score envelope.
+
+Full definitions are in [methodology](docs/methodology.md). API choices and timing boundaries are documented in [provider notes](docs/provider_notes.md).
+
+## Reproduce
 
 ```bash
 python -m pip install -e '.[dev]'
@@ -63,54 +44,23 @@ voice-stream-slo demo --output results/synthetic
 python -m pytest
 ```
 
-The synthetic command requires no network access or API keys.
-
-## Run the live benchmark
-
-Copy `.env.example` to the gitignored `.env` file and fill in the providers you
-intend to run, or export the same variables in your shell:
+The synthetic validation requires no network access. For a live run, copy `.env.example` to the gitignored `.env`, add the provider keys, set an accurate `network_label` in `configs/benchmark.json`, then run:
 
 ```bash
-export CARTESIA_API_KEY=...
-export DEEPGRAM_API_KEY=...
-export ELEVENLABS_API_KEY=...
-export OPENAI_API_KEY=...
-
 voice-stream-slo run \
   --config configs/benchmark.json \
-  --output results/live/2026-08-west-coast
+  --output results/live/my-run
 
 voice-stream-slo analyze \
   --config configs/benchmark.json \
-  --input results/live/2026-08-west-coast/raw/traces \
-  --output results/live/2026-08-west-coast/analysis
+  --input results/live/my-run/raw/traces \
+  --output results/live/my-run/analysis
 ```
 
-Before a publishable run, replace `network_label` in the config with an honest description of the client and egress location. Never commit API keys. Raw audio is not retained by default; the auditable artifact is arrival time plus PCM byte count for every receive event.
+Adapters are included for Cartesia Sonic 3.5, Deepgram Flux, ElevenLabs Flash, and OpenAI `gpt-4o-mini-tts`. The published live run used the first three.
 
-## Protocol in one paragraph
+## Scope
 
-Six fixed English agent utterances span three length bands. Each provider receives the complete text at application request time. Connections are established and warmed with two excluded requests. The measured matrix is globally serial and deterministically interleaved across providers, prompts, and 20 repetitions. TTFA begins immediately before the application payload is sent; DNS, TLS, and WebSocket setup are excluded from TTFA and declared separately. Intervals resample prompts and trials hierarchically; binary-rate intervals also include the Wilson score envelope so all-success samples do not produce false zero-width uncertainty.
+This is a low-load delivery benchmark from one client location, not a voice-quality evaluation or global provider ranking. HTTP clients may coalesce reads, while WebSockets expose message frames; the benchmark reports the application-visible boundary. See the [limitations](docs/methodology.md#limitations).
 
-When the observed baseline has no underruns, analysis also performs a separately labeled
-counterfactual stress replay. It delays the receive-event suffix beginning at 25%, 50%, and
-75% of the utterance by declared amounts. This measures how much delivery headroom the
-captured stream contained; it is not presented as an observed provider outage.
-
-## Interpretation boundaries
-
-This is a delivery-reliability benchmark, not a voice-quality leaderboard. A single client location cannot establish global performance. HTTP receive chunks can be coalesced by the client stack, while WebSocket message boundaries are explicit; that difference is part of what an application observes and is documented, but it should not be mistaken for model-internal cadence. See [limitations](docs/methodology.md#limitations) and [provider notes](docs/provider_notes.md).
-
-## Repository map
-
-```text
-configs/                 declared protocol and model versions
-prompts/                 fixed agent-style utterances
-src/voice_stream_slo/    adapters, trace schema, simulator, analysis
-tests/                   deterministic metric and state-machine tests
-docs/                    methodology and provider-specific API notes
-results/synthetic/       checked-in instrumentation validation
-results/live/            timestamped live traces and analyses
-```
-
-Code is MIT licensed. Provider names and trademarks belong to their respective owners. This project is independent and is not endorsed by any provider.
+Code is MIT licensed. Provider names and trademarks belong to their owners.
